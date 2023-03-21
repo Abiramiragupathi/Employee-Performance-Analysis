@@ -18,7 +18,7 @@
 3. Label Encoding the ordinal columns.
 4. Calculate correlation coeffecient to find out the relationship between variables and then select the important features for analysis.
 5. Standardizing the data and splitting it into test and train.
-6. Training the data using algorithms like Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, Naive Bayes, K-Nearest Neighbor, XGBoost Classifier and Artificial Neural Network and checking the accuracy to find out which algorithm is the best.
+6. Training the data using algorithms like Logistic Regression, Support Vector Machine, K-Nearest Neighbor, XGBoost Classifier and checking the accuracy to find out which algorithm is the best.
 7. Exporting the model with highest accuracy. 
 
 
